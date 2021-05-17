@@ -370,12 +370,12 @@ body.light hr.separator {
     font-size: 13px;
     margin-top: 8px;
     margin-bottom: 2px;
-    margin-right: 321px;
+    margin-right: 280px;
 }
 
 .portfolio .slideshow figcaption h3 {
   font-size: 25px;
-  margin-right: 298px;
+  margin-right: 275px;
 }
 
 
@@ -397,7 +397,7 @@ body.light hr.separator {
     margin-left: 0px;
 }
 .img-previo {
-  margin-left: 62px;
+  margin-left: 74px;
   width: 100%;
 }
 }
