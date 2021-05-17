@@ -396,7 +396,9 @@ body.light hr.separator {
     /* justify-content: center; */
     margin-left: 0px;
 }
-
+.img-previo {
+  margin-left: 62px;
+  width: 100%;
 }
 /*** Buttons ***/
 .btn {
@@ -2043,6 +2045,7 @@ body.light.about .resume-box .time, body.light.about .resume-box p {
 }
 
 
+
 }
 
 
@@ -2088,4 +2091,6 @@ body.light.about .resume-box .time, body.light.about .resume-box p {
   font-size: 13px;
   margin-top: 8px;
   margin-bottom: 2px;
+}
+
 }
