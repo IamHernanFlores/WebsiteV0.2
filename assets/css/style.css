@@ -391,7 +391,7 @@ body.light hr.separator {
     background: rgba(0,0,0,.4);
     padding: -1px 0;
     /* margin: 0; */
-    margin-right: 287px;
+    margin-right: 265px;
     /* display: flex; */
     /* justify-content: center; */
     margin-left: 0px;
@@ -1850,8 +1850,7 @@ margin-top: -11px;
   }
 
   .portfolio .slideshow figure {
-    padding: 85px 25px 25px;
-  }
+    padding: 86px 55px 25px;  }
 
   .portfolio .slideshow figcaption h3 {
     font-size: 25px;
