@@ -397,9 +397,11 @@ body.light hr.separator {
     margin-left: 0px;
 }
 .img-previo {
-  margin-left: 62px;
+  margin-left: 74px;
   width: 100%;
 }
+}
+
 /*** Buttons ***/
 .btn {
   box-shadow: none !important;
@@ -2093,4 +2095,3 @@ body.light.about .resume-box .time, body.light.about .resume-box p {
   margin-bottom: 2px;
 }
 
-}
