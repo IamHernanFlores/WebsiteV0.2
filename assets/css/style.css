@@ -1,10 +1,3 @@
-/*
-Template Name: Tunis - Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
-Version: 1.0
-*/
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -109,7 +102,7 @@ body.home.light .home-details h6 {
 }
 
 body.home.light .bg {
-  background-image: url(../img/a4.png);
+  background-image: url(../img/perfil2021.jpeg);
   width: 341px;
   height: 342px;
   background-size: cover;
@@ -117,7 +110,7 @@ body.home.light .bg {
   background-position: top;
   /* box-shadow: 0 0 7px rgb(0 0 0 / 30%); */
   transition: transform .5s; /* Animation */
-
+  border-radius: 189px;
 }
 body.home.light .bg:hover{
   transform: scale(1.03); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
