@@ -102,9 +102,9 @@ body.home.light .home-details h6 {
 }
 
 body.home.light .bg {
-  background-image: url(../img/perfil2021.jpeg);
-  width: 341px;
-  height: 342px;
+  background-image: url(../img/perfilBlan.png);
+  width: 345px;
+  height: 346px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -593,17 +593,18 @@ margin-top: -11px;
   transform: rotate(-15deg);
   left: -83%;
   top: -50%;
+ /* background: #3D83FD;*/
 }
 
 .home .bg {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/perfil.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
   height: calc(100vh - 60px);
   z-index: 111;
   border-radius: 15px;
-  left: 93px;
+  left: 178px;
   top: 155px;
   /* box-shadow: 0 0 7px rgb(0 0 0 / 90%); */
 }
@@ -614,14 +615,11 @@ margin-top: -11px;
   min-height: 100%;
 }
 
-.home .home-details > div {
-  max-width: 550px;
-  margin: 0 auto;
-}
+
 
 .home .home-details h1 {
-  font-size: 45px;
-  line-height: 45px;
+  font-size: 80px;
+  line-height: 77px;
   font-weight: 700;
   margin: 18px 0 10px;
 }
@@ -1341,6 +1339,12 @@ margin-top: -11px;
 }
 
 @media (min-width: 992px) {
+
+  .home .home-details > div {
+    max-width: 550px;
+    margin: 0 auto;
+    margin-left: 280px;
+  }
   .home .home-details-container {
     width: 100%;
     height: 100vh;
@@ -1702,6 +1706,10 @@ margin-top: -11px;
 }
 
 @media (max-width: 576px) {
+  .home .home-details > div {
+    max-width: 550px;
+    margin: 0 auto;
+  }
   .btn {
     font-size: 14px;
   }
@@ -1758,12 +1766,11 @@ margin-top: -11px;
     width: 200px;
     height: 200px;
   }
-
   .home .home-details h1 {
-    font-size: 29px;
-    line-height: 29px;
+    font-size: 63px;
+    line-height: 63px;
     margin: 18px 0 13px;
-  }
+}
 
   .home .home-details h6 {
     font-size: 19px;
