@@ -2095,3 +2095,7 @@ body.light.about .resume-box .time, body.light.about .resume-box p {
   margin-bottom: 2px;
 }
 
+
+.mb-5, .my-5 {
+    margin-bottom: 2rem!important;
+}
