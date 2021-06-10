@@ -136,7 +136,7 @@ body.light .title-bg {
 
 body.light.about .box-stats {
   border: 1px solid #ddd;
-  border-radius: 30px;
+  border-radius: 20px;
   transition: transform .9s; /* Animation */
 
 }
