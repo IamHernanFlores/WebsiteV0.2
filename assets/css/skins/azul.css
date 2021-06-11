@@ -21,7 +21,6 @@ body.light.contact ul.social li a:hover,
 .blog .page-item.active .page-link,
 body.light.blog .page-link:hover,
 body.light.blog .page-item.active .page-link,
-.portfolio .grid li figure div,
 .header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover,
 body.light .header ul.icon-menu li.icon-box.active, body.light  .header ul.icon-menu li.icon-box:hover,
 .btn,
@@ -30,6 +29,14 @@ body.light .header ul.icon-menu li.icon-box.active, body.light  .header ul.icon-
 .portfolio .slideshow .carousel-indicators li.active {
     background-color: #3D83FD;
 } /*.home .color-block,*/
+
+
+.portfolio .grid li figure div {
+    background-color: #3d3d3d60;
+
+}
+
+
 .contact .contactform input[type=text]:focus,
 .contact .contactform input[type=email]:focus,
 .contact .contactform textarea:focus,
