@@ -1429,6 +1429,8 @@ margin-top: -11px;
   display: flex;
   border-radius: 20px;
   justify-content: center;
+  background: #00000047;
+  margin: 0;
   
 }
 
