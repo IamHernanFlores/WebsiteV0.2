@@ -1445,12 +1445,25 @@ body.light hr.separator {
 
   /* Carousel */
 
+<<<<<<< HEAD
   .portfolio .slideshow .carousel-indicators {
     bottom: 0;
     background: rgba(0, 0, 0, .4);
     padding: 10px 0;
     margin: 0;
   }
+=======
+.portfolio .slideshow .carousel-indicators {
+  padding: -3px 0;
+  width: 177px;
+  display: flex;
+  border-radius: 20px;
+  justify-content: center;
+  background: #00000047;
+  margin: 0;
+  
+}
+>>>>>>> d9334fa531e7ff737da9e95212e139ccfa09022a
 
   .portfolio .slideshow .carousel-indicators li {
     width: 10px;
